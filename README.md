@@ -1,4 +1,4 @@
-#Uplearn
+# Uplearn
 
 A work-in-progress learning app for Romanian high-school biology. The project combines a React frontend with a Flask API for accounts, AI-generated quizzes, learning progress, and a lesson-aware chatbot powered by a local Ollama model.
 

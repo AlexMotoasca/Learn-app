@@ -1,0 +1,163 @@
+MODULUL 8 — Genetica (versiune optimizată pentru AI)
+1. Noțiuni de bază ale geneticii
+
+Genetica studiază ereditatea și variabilitatea organismelor.
+
+Ereditatea – transmiterea caracterelor de la părinți la urmași.
+Variabilitatea – diferențele dintre indivizi.
+
+Termeni esențiali
+
+Genă – segment de ADN care controlează un caracter.
+
+Alelă – formă alternativă a unei gene (exemplu: A și a).
+
+Genotip – totalitatea genelor unui organism.
+
+Fenotip – caracteristicile observabile ale organismului (rezultat al genotipului + mediului).
+
+Homozigot – are alele identice (AA sau aa).
+
+Heterozigot – are alele diferite (Aa).
+
+Caracter dominant – se manifestă la heterozigot și homozigot dominant.
+
+Caracter recesiv – apare doar la homozigot recesiv (aa).
+
+2. Legile lui Mendel
+2.1 Legea uniformității (F1)
+
+Încrucișare: homozigot dominant × homozigot recesiv
+→ toți descendenții F1 sunt heterozigoți (Aa) și au fenotip dominant.
+
+2.2 Legea segregării independente
+
+În F2, alelele se separă după raportul fenotipic:
+
+Monohibridare:
+
+Fenotipuri: 3 (dominant) : 1 (recesiv)
+
+Genotipuri: 1 AA : 2 Aa : 1 aa
+
+2.3 Legea asortării independente
+
+Genele de pe cromozomi diferiți se transmit independent.
+
+Dihibridare: raport fenotipic 9 : 3 : 3 : 1.
+
+3. Cromozomi și cariotip
+
+Organismul uman are 46 cromozomi:
+
+22 perechi autozomi
+
+1 pereche sexuali (XX / XY)
+
+Sexul genetic:
+
+Mascul: XY
+
+Femelă: XX
+
+Cariotipul reprezintă totalitatea cromozomilor dintr-o celulă somatică.
+
+4. Baza moleculară a eredității
+4.1 ADN
+
+Format din două catene în dublu helix.
+
+Unități structurale: nucleotide (A, T, G, C).
+
+Funcție: stochează informația genetică.
+
+4.2 ARN
+
+O singură catenă.
+
+Tipuri principale:
+
+ARNm – transportă informația genetică la ribozomi.
+
+ARNt – aduce aminoacizi la ribozomi.
+
+ARNr – component structural al ribozomilor.
+
+4.3 Sinteza proteinelor
+
+Transcripție: ADN → ARNm (în nucleu)
+
+Translație: ARNm → proteină (pe ribozomi)
+
+5. Mutațiile
+
+Mutațiile sunt modificări ale ADN-ului sau cromozomilor.
+
+5.1 Mutații genice
+
+Afectează secvența unei gene.
+Tipuri:
+
+substituții
+
+inserții
+
+deleții
+
+Consecințe: proteine modificate sau nefuncționale.
+
+5.2 Mutații cromozomiale
+
+Afectează structura cromozomilor.
+Tipuri:
+
+deleție
+
+duplicare
+
+inversie
+
+translocație
+
+5.3 Mutații genomice (aberații numerice)
+
+Afectează numărul cromozomilor.
+Exemple:
+
+Trisomie 21 (sindrom Down)
+
+Monosomie X (Turner)
+
+XXY (Klinefelter)
+
+6. Factori mutageni
+
+Fizici: radiații UV, radiații ionizante
+
+Chimici: nitrozamine, pesticide, coloranți
+
+Biologici: virusuri
+
+7. Boli genetice
+7.1 Autozomale dominante
+
+O singură alelă mutantă determină boala.
+Exemplu: boala Huntington
+
+7.2 Autozomale recesive
+
+Apar doar în homozigot recesiv.
+Exemplu: fibroza chistică
+
+7.3 Legate de cromozomul X
+
+Mai frecvente la bărbați (doar un cromozom X).
+Exemplu: daltonism
+
+8. Diagnostic genetic
+
+Amniocenteză – prelevare lichid amniotic, analiză celulară.
+
+Biopsie vilozități coriale – recoltare țesut placentar.
+
+Ecografie – depistează malformații.

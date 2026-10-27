@@ -1,0 +1,108 @@
+MODULUL 7 — Grupele de sânge (ABO și Rh) — versiune optimizată pentru AI
+1. Sistemul ABO
+
+Grupele de sânge depind de antigenele de pe hematii și de anticorpii din plasmă.
+
+1.1 Grupele și caracteristicile lor
+
+Grupa O (I)
+
+Antigene pe hematii: niciun antigen
+
+Anticorpi în plasmă: anticorpi anti-A și anti-B
+
+Poate dona la: O, A, B, AB
+
+Poate primi de la: doar O
+
+Grupa A (II)
+
+Antigene pe hematii: antigen A
+
+Anticorpi în plasmă: anticorp anti-B
+
+Poate dona la: A, AB
+
+Poate primi de la: O, A
+
+Grupa B (III)
+
+Antigene pe hematii: antigen B
+
+Anticorpi în plasmă: anticorp anti-A
+
+Poate dona la: B, AB
+
+Poate primi de la: O, B
+
+Grupa AB (IV)
+
+Antigene pe hematii: antigen A și antigen B
+
+Anticorpi în plasmă: niciun anticorp
+
+Poate dona la: doar AB
+
+Poate primi de la: O, A, B, AB
+
+1.2 Concluzii importante
+
+Grupa O este donator universal.
+
+Grupa AB este primitor universal.
+
+Combinația dintre antigen și anticorp de tipul său (A cu anti-A sau B cu anti-B) provoacă incompatibilitate.
+
+2. Incompatibilitatea sanguină
+
+Dacă în transfuzie se întâlnesc un antigen și anticorpul său specific:
+
+apare aglutinarea (lipirea hematiilor),
+
+urmată de hemoliză (distrugerea hematiilor).
+
+Aceasta este o reacție periculoasă și trebuie evitată.
+
+Exemple:
+
+Antigen A + anticorp anti-A → incompatibil
+
+Antigen B + anticorp anti-B → incompatibil
+
+3. Sistemul Rh
+
+Sistemul Rh depinde de prezența antigenului D.
+
+Rh pozitiv (Rh+) → are antigen D
+
+Rh negativ (Rh−) → nu are antigen D
+
+3.1 Reguli de transfuzie Rh
+
+Rh+ poate primi sânge Rh+ sau Rh−.
+
+Rh− poate primi doar sânge Rh−.
+
+Rh− poate dona la Rh+ și Rh−.
+
+Explicație: persoanele Rh− pot produce anticorpi anti-D dacă intră în contact cu sânge Rh+.
+
+4. Sarcina Rh (situație specială)
+
+Caz tipic:
+
+Mamă: Rh−
+
+Făt: Rh+
+
+La prima sarcină, mama Rh− poate forma anticorpi anti-D la contactul cu sângele fetal.
+
+La o sarcină următoare cu făt Rh+:
+
+anticorpii anti-D ai mamei trec prin placentă,
+
+pot provoca boala hemolitică a nou-născutului.
+
+Prevenție:
+
+administrarea de imunoglobulină anti-D mamei Rh− după naștere.
